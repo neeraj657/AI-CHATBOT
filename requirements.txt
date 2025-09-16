@@ -1,0 +1,18 @@
+streamlit==1.26.0
+PyPDF2==3.0.1
+faiss-cpu==1.7.3
+langchain==0.0.228
+python-dotenv==1.0.0
+google-generativeai==0.1.0
+langchain-google-genai==0.1.0
+
+
+Explanation of Requirements
+streamlit: For creating the web application.
+PyPDF2: To read and extract text from PDF documents.
+faiss-cpu: For efficient text similarity search and indexing.
+langchain: For creating the text processing and conversational pipeline.
+python-dotenv: For loading environment variables from a .env file.
+google-generativeai: Library for using Google Generative AI.
+langchain-google-genai: Langchain integration with Google Generative AI.
+
